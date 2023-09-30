@@ -17,6 +17,9 @@ Estoy trabajando y aprendiendo las siguientes herramientas y tecnologías:
 - **Spark** 
 - **Hadoop** 
 - ![Excel](https://cdn.icon-icons.com/icons2/2107/PNG/32/file_type_excel_icon_130611.png)
+- PostreSQL
+- MySQL
+- Google BigQuery
 
 
 ## Información de contacto
