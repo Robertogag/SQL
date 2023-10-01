@@ -1,5 +1,11 @@
 # ¡Hola! 👋
 
+## Repositorios 📂
+### Proyectos de SQL
+Este repositorio contiene una colección de trabajos, proyectos y scripts relacionados con SQL. Aquí encontrarás ejemplos de mi experiencia en el manejo y análisis de datos utilizando SQL.
+
+
+
 ## Perfil Profesional 👨‍💼
 Soy Juan Roberto García Gómez, estudiante del bootcamp de Keepcoding en "Big Data, Inteligencia Artificial & Machine Learning, Edición XII". Estoy apasionado por el mundo de los datos y la inteligencia artificial, y estoy comprometido con mi desarrollo profesional en esta emocionante área.
 
