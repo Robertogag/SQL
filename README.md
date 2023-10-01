@@ -1,7 +1,6 @@
 # ¡Hola! 👋
-
-## Repositorios 📂
-### Proyectos de SQL
+ 
+## Proyectos de SQL 📂
 Este repositorio contiene una colección de trabajos, proyectos y scripts relacionados con SQL. Aquí encontrarás ejemplos de mi experiencia en el manejo y análisis de datos utilizando SQL.
 
 
