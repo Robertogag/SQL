@@ -1,29 +1,20 @@
-# ¡Hola! 👋
- 
-## Proyectos de SQL 📂
-Este repositorio contiene una colección de trabajos, proyectos y scripts relacionados con SQL. Aquí encontrarás ejemplos de mi experiencia en el manejo y análisis de datos utilizando SQL.
+# Proyectos SQL con PostgreSQL, MySQL y BigQuery
 
+¡Bienvenido a mi repositorio de proyectos SQL! Aquí encontrarás una colección de proyectos prácticos y soluciones de bases de datos utilizando sistemas como PostgreSQL, MySQL y Google BigQuery.
 
+## Destacados 🌟
 
-## Perfil Profesional 👨‍💼
-Soy Juan Roberto García Gómez, estudiante del bootcamp de Keepcoding en "Big Data, Inteligencia Artificial & Machine Learning, Edición XII". Estoy apasionado por el mundo de los datos y la inteligencia artificial, y estoy comprometido con mi desarrollo profesional en esta emocionante área.
+- 📊 **Proyectos Prácticos:** Explora una variedad de proyectos SQL del mundo real que abordan desafíos comunes en bases de datos.
 
-## Herramientas y Tecnologías 🛠️
-Estoy trabajando y aprendiendo con una variedad de herramientas y tecnologías para impulsar mis habilidades en el campo de Big Data y Machine Learning:
+- 🚀 **Optimización de Bases de Datos:** Descubre consultas y estrategias para mejorar el rendimiento y la eficiencia de tus bases de datos.
 
-[<img src="https://cdn.icon-icons.com/icons2/112/PNG/64/python_18894.png" width="100" height="60">](https://www.python.org/)
-[<img src="https://pandas.pydata.org/static/img/pandas.svg" width="100" height="60">](https://pandas.pydata.org/)
-[<img src="https://www.tableau.com/themes/custom/tableau_www/logo.png" width="150" height="60">](https://www.tableau.com/)
-[<img src="https://cdn.icon-icons.com/icons2/2107/PNG/64/file_type_js_official_icon_130509.png" width="100" height="60">](https://www.javascript.com/)
-[<img src="https://www.r-project.org/Rlogo.png" width="100" height="60">](https://www.r-project.org/)
-[<img src="https://spark.apache.org/images/spark-logo-trademark.png" width="100" height="60">](https://spark.apache.org/)
-[<img src="https://cdn.icon-icons.com/icons2/2107/PNG/64/file_type_excel_icon_130611.png" width="100" height="60">](https://www.microsoft.com/en-us/microsoft-365/excel)
-[<img src="https://www.postgresql.org/media/img/about/press/elephant.png" width="100" height="60">](https://www.postgresql.org/)
-[<img src="https://www.mysql.com/common/logos/logo-mysql-170x115.png" width="100" height="60">](https://www.mysql.com/)
+- 📈 **Modelado de Datos:** Aprende sobre el diseño y la estructura de bases de datos efectivas.
 
+## Cómo Utilizar 🚀
 
-## Información de Contacto 📧
-Puedes contactarme por correo electrónico en: roberto.gag117@gmail.com
+1. Explora los proyectos para obtener ejemplos de soluciones prácticas en SQL.
+
+2. Utiliza los proyectos y consultas como referencia o inspiración para tus propios desafíos y proyectos SQL.
 
 ## Redes Sociales 🌐
 ¡Conéctate conmigo en LinkedIn para mantenernos en contacto y aprender juntos!
